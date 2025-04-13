@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+  import Counter from '$lib/Counter.svelte';
+</script>
+
+<div class="min-h-screen flex flex-col items-center justify-center gap-8 p-8">
+  <h1 class="text-4xl font-bold text-center">Hello World</h1>
+  <Counter />
+</div>
