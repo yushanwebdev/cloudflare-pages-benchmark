@@ -10,6 +10,14 @@ The primary goal of this project is to conduct comprehensive performance benchma
 - Compare rendering strategies and their impact on edge performance
 - Measure key metrics such as Time-to-First-Byte (TTFB), First Contentful Paint (FCP), and overall runtime performance
 
+### Svelte
+
+<img width="1002" alt="Screenshot 2025-04-13 at 18 49 33" src="https://github.com/user-attachments/assets/704e9e15-de1b-437c-8f26-6be10795219c" />
+
+### Next.js
+
+<img width="1002" alt="Screenshot 2025-04-13 at 18 50 50" src="https://github.com/user-attachments/assets/f97a4be3-6d3a-4ffe-928f-6ae64598e3db" />
+
 ## 🔗 References
 
 - [Cloudflare Pages Direct Upload Documentation](https://developers.cloudflare.com/pages/get-started/direct-upload/#wrangler-cli)
