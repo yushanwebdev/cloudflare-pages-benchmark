@@ -25,3 +25,4 @@ https://cloudflare-pages-next-1zl.pages.dev/
 ## 🔗 References
 
 - [Cloudflare Pages Direct Upload Documentation](https://developers.cloudflare.com/pages/get-started/direct-upload/#wrangler-cli)
+- [Official results for js web frameworks benchmark](https://krausest.github.io/js-framework-benchmark/)
