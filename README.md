@@ -1,4 +1,4 @@
-# Cloudflare Workers Benchmark
+# Cloudflare Pages Benchmark
 
 The project serves as an experimental platform to evaluate and compare the performance characteristics of different meta frameworks when deployed to Cloudflare's edge network.
 
