@@ -12,9 +12,13 @@ The primary goal of this project is to conduct comprehensive performance benchma
 
 ### Svelte
 
+https://cloudflare-pages-svelte-d8w.pages.dev/
+
 <img width="1002" alt="Screenshot 2025-04-13 at 18 49 33" src="https://github.com/user-attachments/assets/704e9e15-de1b-437c-8f26-6be10795219c" />
 
 ### Next.js
+
+https://cloudflare-pages-next-1zl.pages.dev/
 
 <img width="1002" alt="Screenshot 2025-04-13 at 18 50 50" src="https://github.com/user-attachments/assets/f97a4be3-6d3a-4ffe-928f-6ae64598e3db" />
 
